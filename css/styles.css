@@ -1,0 +1,14 @@
+:root {
+    font-size: 1em;
+    background-color: #4a4a4a;
+    color:#000;
+}
+.dark-theme{
+    color: #1d51a3;
+}
+
+header {
+    width:100%;
+    text-align: center;
+    font-size: 1.6em;
+}
